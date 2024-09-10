@@ -1,6 +1,5 @@
 # Hello! 👋
 
-🎓 **Currently Studying:**  
 I'm pursuing my Bachelor's degree in **Telekommunikationsinformatik (B.Eng.)**.  
 Alongside my studies, I work as a **DevOps Engineer**. In this role, I create new concepts for automatization tasks, help in reducing the downtime of machine-clusters, and implement new innovative applications resulting in better performance and productivity.
 
