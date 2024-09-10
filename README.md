@@ -2,7 +2,7 @@
 
 🎓 **Currently Studying:**  
 I'm pursuing my Bachelor's degree in **Telekommunikationsinformatik (B.Eng.)**.  
-Alongside my studies, I work as a **DevOps Engineer**. In this role, I ensure efficient, scalable, and secure infrastructures for various applications.
+Alongside my studies, I work as a **DevOps Engineer**. In this role, I create new concepts for automatization tasks, help in reducing the downtime of machine-clusters, and implement new innovative applications resulting in better performance and productivity.
 
 ## 🛠️ Skills & Technologies:
 
@@ -13,7 +13,7 @@ Alongside my studies, I work as a **DevOps Engineer**. In this role, I ensure ef
 - **DevOps & Cloud:**  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  CI/CD, Infrastructure as Code (IaC), Containerization
+  Virtualzization, Containerization
 
 - **Web Technologies:**  
   HTML, CSS, JavaScript, Web frameworks, APIs
