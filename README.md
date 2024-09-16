@@ -17,9 +17,6 @@ Alongside my studies, I work as a **DevOps Engineer**. In this role, I create ne
 - **Web Technologies:**  
   HTML, CSS, JavaScript, Web frameworks, APIs
 
-## 📫 How to Reach Me:
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lars-lehmann-855a82327/).
-
 ---
 
 Thanks for stopping by! 🚀
